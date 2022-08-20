@@ -2,7 +2,7 @@
 
 I can code... kinda
 
-here are some of my projects!
+Here are some of my projects!
 
 ## **[Project 1: Apple Pie: Overview](https://github.com/swiftlyBenton/Apple-Pie-Project)**
 
