@@ -13,10 +13,13 @@ One such app is the final project of unit 2, the Apple Pie Project. Basically ha
 
 The end result was a fun to play game that even more fun to make.
 
-![](https://github.com/swiftlyBenton/swiftlyBenton/blob/main/Images/Photo%20From%20Main%20Storyboard%202022-08-20%20at%2011.58.57%20AM.png)
-![](https://github.com/swiftlyBenton/swiftlyBenton/blob/main/Images/Photo%20From%20Main%20Storyboard%202022-08-20%20at%2011.58.57%20AM.png)
+### Photo from main storyboard
 
-![](https://github.com/swiftlyBenton/swiftlyBenton/blob/main/Images/Photo%20From%20Simulator%202022-08-20%20at%2012.01.23%20PM.png)
+![Photo From Main Storyboard](https://github.com/swiftlyBenton/swiftlyBenton/blob/main/Images/Photo%20From%20Main%20Storyboard%202022-08-20%20at%2011.58.57%20AM.png)
+
+### Photo from simulator
+
+![Photo From Simulator](https://github.com/swiftlyBenton/swiftlyBenton/blob/main/Images/Photo%20From%20Simulator%202022-08-20%20at%2012.01.23%20PM.png)
 
 ### **What was the biggest challenge?**
 
