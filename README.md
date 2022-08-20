@@ -1,6 +1,6 @@
 # **Benton T. Struchtemeyer**
 
-I can code... or at least I try
+I can code... or at least I can try
 
 Here are some of my projects!
 
