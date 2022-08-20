@@ -16,7 +16,7 @@ The biggest challenge was getting to text of the button to be added to the strin
 
 ### Photo from main storyboard
 
-![](/Images/Photo%20From%20Main%20Storyboard%202022-08-20%20at%2011.58.57%20AM.png)
+![](/Images/Photo%20From%20Main%20Storyboard.png)
 
 
 ### Photo from simulator
