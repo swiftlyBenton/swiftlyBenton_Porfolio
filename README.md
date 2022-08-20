@@ -16,12 +16,12 @@ The biggest challenge was getting to text of the button to be added to the strin
 
 ### Photo from main storyboard
 
-![]()
+![](/Images/Photo%20From%20Main%20Storyboard.png)
 
 
 ### Photo from simulator
 
-![]()
+![](/Images/Photo%20From%20Simulator.png)
 
 
 ### **What was the result?**
