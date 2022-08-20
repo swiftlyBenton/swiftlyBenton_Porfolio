@@ -21,7 +21,7 @@ The biggest challenge was getting to text of the button to be added to the strin
 
 ### Photo from simulator
 
-![](/Images/Photo%20From%20Simulator%202022-08-20%20at%2012.01.23%20PM.png)
+![](/Images/Photo%20From%20Simulator.png)
 
 
 ### **What was the result?**
