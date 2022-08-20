@@ -13,6 +13,8 @@ One such app is the final project of unit 2, the Apple Pie Project. Basically ha
 
 The end result was a fun to play game that even more fun to make.
 
+![]()
+
 
 
 ### **What was the biggest challenge?**
