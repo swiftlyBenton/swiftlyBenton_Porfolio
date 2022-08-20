@@ -15,7 +15,7 @@ The end result was a fun to play game that even more fun to make.
 
 ![](https://github.com/swiftlyBenton/swiftlyBenton/blob/main/Images/Photo%20From%20Main%20Storyboard%202022-08-20%20at%2011.58.57%20AM.png)
 
-![]()
+![](https://github.com/swiftlyBenton/swiftlyBenton/blob/main/Images/Photo%20From%20Simulator%202022-08-20%20at%2012.01.23%20PM.png)
 
 ### **What was the biggest challenge?**
 
