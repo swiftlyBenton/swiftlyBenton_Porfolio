@@ -16,12 +16,12 @@ The biggest challenge was getting to text of the button to be added to the strin
 
 ### Photo from main storyboard
 
-
+1[](
 
 
 ### Photo from simulator
 
-
+![](https://github.com/swiftlyBenton/swiftlyBenton_Porfolio/blob/main/Images/Photo%20From%20Simulator.png)
 
 
 ### **What was the result?**
